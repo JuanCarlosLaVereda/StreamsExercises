@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e16ab0c3-2642-448f-88c8-8bf982bc6a3e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/ieslavereda/exercise2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ieslavereda/exercise2/Exercise2.java" afterDir="false" />
+    <list default="true" id="e16ab0c3-2642-448f-88c8-8bf982bc6a3e" name="Changes" comment="v.1">
       <change beforePath="$PROJECT_DIR$/src/main/java/es/ieslavereda/exercise3/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ieslavereda/exercise3/Exercise3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,11 +64,24 @@
       <updated>1708013637842</updated>
       <workItem from="1708013638846" duration="132000" />
       <workItem from="1708013779926" duration="1648000" />
-      <workItem from="1708361692529" duration="6984000" />
+      <workItem from="1708361692529" duration="7614000" />
     </task>
+    <task id="LOCAL-00001" summary="v.1">
+      <option name="closed" value="true" />
+      <created>1708370531210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708370531210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v.1" />
   </component>
 </project>

@@ -29,6 +29,9 @@ public class Exercise3 {
             );
 
             System.out.println(alumnosNotas);
+            List<Map.Entry<String,Integer>> listaMapa = new ArrayList<>(alumnosNotas.entrySet());
+            listaMapa.sort(Collections.reverseOrder(Map.Entry.comparingByValue()));
+            listaMapa.forEach(System.out::println);
 
         } catch (IOException e){
             e.printStackTrace();
