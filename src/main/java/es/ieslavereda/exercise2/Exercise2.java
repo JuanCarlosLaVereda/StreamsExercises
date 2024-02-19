@@ -24,6 +24,8 @@ public class Exercise2 {
             System.out.println("Minimo: " + minimo);
         } catch (IOException e){
             e.printStackTrace();
+        } catch (NumberFormatException e){
+            e.printStackTrace();
         }
     }
 }
